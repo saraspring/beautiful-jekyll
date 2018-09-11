@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Educator & Aspiring Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm Sara Spring. I'm an educator and instructional leader working on an M.S. in Data Science. Additionally, I serve as the lead facilitator for an afterschool program that teaches female students how to code. I'm also an avid cyclist and dog-lover. I blog about my experiences, projects, free resources, and my own musings on the fields of education, technology, and data science.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Thanks for stopping by!
